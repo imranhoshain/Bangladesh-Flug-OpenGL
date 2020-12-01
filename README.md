@@ -11,4 +11,4 @@ On Windows using CodeBlocks
 
 ## Screenshot
 
-![Bangladeshi Flug](https://prnt.sc/vtb7fm)
+![](https://github.com/princ-imran/Bangladesh-Flug-OpenGL/blob/master/Screenshot/BD%20Flug.png)
